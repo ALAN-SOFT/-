@@ -1,8 +1,8 @@
 # 网络舆情数据库
 网络舆情数据中心，Chongqing Technology and Business University
 
-### 舆情数据示例
-1. 采用json 格式存储
+### 1.舆情数据示例
+###### 采用json 格式存储
    例如："data": [
             {
                 "websitelogo": "https://mjs.sinaimg.cn/wap/module/base/img/favicon.ico",
@@ -75,10 +75,10 @@
                 "industrylable": "政府部门"
             },
           ]
-2. 高频词汇
+### 2. 高频词汇
 ![高频词汇](https://github.com/ALAN-SOFT/Network-Public-Opinion-Data-Center/assets/44634241/6fffa393-ea8e-4d40-9d61-b5da4d3e9e1e)
 
-3.高频词汇指数
+### 3.高频词汇指数
 
 
 ![高频词指数](https://github.com/ALAN-SOFT/Network-Public-Opinion-Data-Center/assets/44634241/f9a05344-a75f-4a7a-9104-7ed1cfc0798c)
