@@ -77,3 +77,7 @@
           ]
 2. 高频词汇
 ![高频词汇](https://github.com/ALAN-SOFT/Network-Public-Opinion-Data-Center/assets/44634241/6fffa393-ea8e-4d40-9d61-b5da4d3e9e1e)
+
+3.高频词汇指数
+![高频词指数](https://github.com/ALAN-SOFT/Network-Public-Opinion-Data-Center/assets/44634241/f9a05344-a75f-4a7a-9104-7ed1cfc0798c)
+
