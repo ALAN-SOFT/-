@@ -75,4 +75,5 @@
                 "industrylable": "政府部门"
             },
           ]
-2. 将不断更新舆情数据
+2. 高频词汇
+![高频词汇](https://github.com/ALAN-SOFT/Network-Public-Opinion-Data-Center/assets/44634241/6fffa393-ea8e-4d40-9d61-b5da4d3e9e1e)
