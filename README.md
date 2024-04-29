@@ -1,6 +1,6 @@
 # 网络舆情数据库
-##### 网络舆情数据中心，Chongqing Technology and Business University
-##### 网络舆情数据中心第二数据库，访问地址：https://github.com/ALAN-SOFT/Network-Public-Opinion-Data-Center2/tree/master
+### 网络舆情数据中心，Chongqing Technology and Business University
+### 网络舆情数据中心第二数据库，访问地址：https://github.com/ALAN-SOFT/Network-Public-Opinion-Data-Center2/tree/master
 
 ### 1.舆情数据示例
 ###### 采用json 格式存储
